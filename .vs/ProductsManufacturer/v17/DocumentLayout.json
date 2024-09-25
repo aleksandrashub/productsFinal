@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\window1.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|solutionrelative:window1.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\context\\user724context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|solutionrelative:context\\user724context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|solutionrelative:models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\window1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|solutionrelative:window1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|c:\\users\\prdb\\desktop\\mypapka\\products\\productsmanufacturer\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\models\\tovardop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|solutionrelative:models\\tovardop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\window2.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|solutionrelative:window2.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\window2.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C914D5-4173-44A4-8874-2059D86647F0}|ProductsManufacturer.csproj|solutionrelative:window2.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User724Context.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Context\\User724Context.cs",
+              "RelativeDocumentMoniker": "Context\\User724Context.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Context\\User724Context.cs",
+              "RelativeToolTip": "Context\\User724Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:08:15.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TovarDop.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Models\\TovarDop.cs",
+              "RelativeDocumentMoniker": "Models\\TovarDop.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Models\\TovarDop.cs",
+              "RelativeToolTip": "Models\\TovarDop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:01:23.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Window2.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Window2.axaml",
+              "RelativeDocumentMoniker": "Window2.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Window2.axaml",
+              "RelativeToolTip": "Window2.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T12:03:03.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Window2.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Window2.axaml.cs",
+              "RelativeDocumentMoniker": "Window2.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Window2.axaml.cs",
+              "RelativeToolTip": "Window2.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:03:03.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window1.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Window1.axaml",
+              "RelativeDocumentMoniker": "Window1.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Window1.axaml",
+              "RelativeToolTip": "Window1.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T13:22:06.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Window1.axaml.cs",
+              "RelativeDocumentMoniker": "Window1.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Window1.axaml.cs",
+              "RelativeToolTip": "Window1.axaml.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAArwHAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:22:06.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tovar.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Models\\Tovar.cs",
+              "RelativeDocumentMoniker": "Models\\Tovar.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Models\\Tovar.cs",
+              "RelativeToolTip": "Models\\Tovar.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:05:53.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:38:56.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\MainWindow.axaml",
+              "RelativeToolTip": "MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T08:57:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\mypapka\\products\\ProductsManufacturer\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAowLIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:57:00.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
